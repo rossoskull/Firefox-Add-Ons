@@ -1,0 +1,29 @@
+{
+	"manifest_version" : 2,
+	"name" : "PDF Inverter - Night Mode",
+	"description" : "Inverts your PDF file contents, enabling them to be viewed in dark places with ease.",
+	"version" : "1.0",
+	
+	"icons" : {
+		"48" : "icons/ico48.png"
+	},
+	
+	"permissions" : [
+		"activeTab"
+	],
+	
+	"background" : {
+		"scripts" : [
+			"background.js"			
+		]
+	},
+	
+	"browser_action" : {
+		"default_icon" : {
+			"32" : "icons/ico32.png",
+			"16" : "icons/ico16.png"
+		},
+		"browser_style" : true
+	}
+	
+}
