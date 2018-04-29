@@ -1,5 +1,6 @@
 # pdf-inverter
 A Firefox browser Add-On which makes pdf files suitable for reading during dark lightings, only with one click!
+
 Link : https://addons.mozilla.org/en-US/firefox/addon/pdf-inverter-night-mode/
 
 # Testing
